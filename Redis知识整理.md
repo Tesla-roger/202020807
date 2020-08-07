@@ -12,9 +12,7 @@ slave启动成功连接到master后会发送一个sync命令，Master接到命�
 
 ​     如果之前的master回来，会成为新master的从机。
 
-![](C:\Users\Administrator\Desktop\123.jpg)
-
-
+![123](Redis%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/123.jpg)
 
 ##### Redis复制的缺点
 
